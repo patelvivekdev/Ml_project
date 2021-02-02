@@ -1,2 +1,1 @@
-# demo_blogs
-basic blog 
+# Ml_project
